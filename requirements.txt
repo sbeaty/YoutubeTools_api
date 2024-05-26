@@ -4,3 +4,6 @@ google-api-python-client==2.31.0
 pydantic==1.8.2
 
 
+superagi-tools
+requests
+pydantic
